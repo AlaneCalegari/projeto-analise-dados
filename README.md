@@ -1,20 +1,8 @@
-# projeto-analise-dados
-Mini projeto de análise de dados com Python, Goolgle Colab e Looker Studio
+# Projeto de Análise de Métricas de Marketing
 
-# Mini Projeto de Análise de Dados
+Este projeto simula uma análise básica de dados de marketing digital, utilizando métricas como CPA, CTR e ROI.
 
-Este projeto faz parte da minha transição para a área de Dados. Ele simula um cenário real de análise com Python e visualização com Looker Studio.
+A planilha com os cálculos pode ser acessada no Google Sheets pelo link abaixo:
 
-## Objetivos:
-- Praticar limpeza e análise de dados com Python no Google Colab
-- Criar gráficos e dashboards no Looker Studio
-- Publicar o projeto no GitHub para portfólio
-
-## Tecnologias utilizadas:
-- Python (Google Colab)
-- Pandas
-- Google Looker Studio
-- GitHub
-
-## Dashboard final:
-[Link para o dashboard no Looker Studio aqui]
+[Ver Planilha de Métricas no Google Sheets]
+https://docs.google.com/spreadsheets/d/1shW4W9W41OxWi7B4XD5EHRAb7tHiYTb1eN2AaX7-CrM/edit?usp=sharing
